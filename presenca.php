@@ -1,5 +1,8 @@
 ï»¿<?php require_once('../connect/con_sql.php');  ?>
 <script src="../js/jquery-1.11.1.min.js"></script>
+\\separa as linhas aqui
+
+
 <link rel="stylesheet" type="text/css" href="code/bootstrap/css/bootstrap.css" />
 
 
